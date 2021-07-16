@@ -5,7 +5,7 @@ logo: "/images/som1.jpg?raw=true"
 description:
   <p align="center">
   <a href="pdf/resume.pdf">Resume</a> |
-  <a href="https://www.linkedin.com/in/chriskhanhtran/">LinkedIn</a> |
+  <a href="https://www.linkedin.com/in/somasundaram-shanmugasundaram-7375a7a2/">LinkedIn</a> |
   <a href="https://github.com/somasundaram1702">GitHub</a>
   </p>
   
@@ -15,6 +15,8 @@ description:
   I am currently interested in solving problems using computer vision
   <br><br>
   </p>
+
+logo: "/images/som1.jpg?raw=true"
   
 theme: jekyll-theme-minimal
 #google_analytics: UA-145578661-1 # Google Analytics tracking ID
