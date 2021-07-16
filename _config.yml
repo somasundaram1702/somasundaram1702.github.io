@@ -2,6 +2,8 @@ title: <p align="center"> Somasundaram S. </p>
 
 logo: "/images/som1.jpg?raw=true"
 
+logo: "/images/som.jpg?raw=true"
+
 description:
   <p align="center">
   <a href="pdf/resume.pdf">Resume</a> |
@@ -12,7 +14,7 @@ description:
   <p align="justify">
   I am curretly working as a datascientist at eInfochips
   <br><br>  
-  I am currently interested in solving problems using deep learning and machine learning techniques.
+  I am currently interested in solving problems using deep learning and machine learning techniques
   <br><br>
   </p>
 
