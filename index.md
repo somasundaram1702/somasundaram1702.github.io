@@ -97,7 +97,7 @@ My complete implementation of assignments and projects in [***CS224n: Natural La
 <div style="text-align: justify">An inspection system for inspecting an internal surface of a tube comprising: a camera unit comprising a camera, a light source and a shield, the shield mounted at a separation distance from the camera and configured to reflect at least some light generated from the light source in a direction towards the camera;</div>
 <br>
 
-- [Tube inspection system](https://worldwide.espacenet.com/patent/search/family/062235809/publication/WO2019219956A1?q=somasundaram%20supriya%20sarkar%20sandvik))
+- [Tube inspection system](https://worldwide.espacenet.com/patent/search/family/062235809/publication/WO2019219956A1?q=somasundaram%20supriya%20sarkar%20sandvik)
 - [The Weight We Carry is Love - TORONTO](https://www.youtube.com/watch?v=vfZwdEWgUPE)
 - [In America - Boston 2017](https://www.youtube.com/watch?v=YdXufiebgyc)
 
