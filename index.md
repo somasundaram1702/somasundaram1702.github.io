@@ -94,15 +94,13 @@ My complete implementation of assignments and projects in [***CS224n: Natural La
 ---
 ## Patent on Tube inspection using Artificial intelligence
 
-[![Open my patent](https://worldwide.espacenet.com/patent/search/family/062235809/publication/WO2019219956A1?q=somasundaram%20supriya%20sarkar%20sandvik)]
-
 <div style="text-align: justify">An inspection system for inspecting an internal surface of a tube comprising: a camera unit comprising a camera, a light source and a shield, the shield mounted at a separation distance from the camera and configured to reflect at least some light generated from the light source in a direction towards the camera;</div>
 <br>
 
-- [Ada Von Weiss - You Regret (Winter at Niagara)](https://www.youtube.com/watch?v=-5esqvmPnHI)
+- [Tube inspection system](https://worldwide.espacenet.com/patent/search/family/062235809/publication/WO2019219956A1?q=somasundaram%20supriya%20sarkar%20sandvik))
 - [The Weight We Carry is Love - TORONTO](https://www.youtube.com/watch?v=vfZwdEWgUPE)
 - [In America - Boston 2017](https://www.youtube.com/watch?v=YdXufiebgyc)
-- [In America - We Call This Place Our Home (Massachusetts)](https://www.youtube.com/watch?v=jzfcM_iO0FU)
+
 
 ---
 <center>© 2020 Khanh Tran. Powered by Jekyll and the Minimal Theme.</center>
