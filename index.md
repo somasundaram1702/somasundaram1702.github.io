@@ -50,8 +50,7 @@ My complete implementation of assignments and projects in [***CS224n: Natural La
 
 ### Real time facial recognition system on Nvidia AGX Xavier 
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/somasundaram1702/somasundaram1702.github.io/blob/main/pdf/Face-on-edge-realtime-face-recognition.pdf)
-
+[![White paper](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/Face-on-edge-realtime-face-recognition.pdf)
 <div style="text-align: justify">A face recognition model developed and deployed on the Nvidia Jetson Xavier AGX board. The model can identify unknown and known faces with an average accuracy of 96% with well-known datasets like LFW and VGGFace2. The model is optimized using the TensorRT 
 module, which improved the inference speed 10-15 times. The model performs well in one shot learning, handling 
 variations like masks, spectacles, etc.</div>
