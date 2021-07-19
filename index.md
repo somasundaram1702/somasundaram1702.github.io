@@ -92,11 +92,11 @@ My complete implementation of assignments and projects in [***CS224n: Natural La
 <br>
 
 ---
-## Filmed by me
+## Patent on Tube inspection using Artificial intelligence
 
-[![View My Films](https://img.shields.io/badge/YouTube-View_My_Films-grey?logo=youtube&labelColor=FF0000)](https://www.youtube.com/watch?v=vfZwdEWgUPE)
+[![Open my patent](https://worldwide.espacenet.com/patent/search/family/062235809/publication/WO2019219956A1?q=somasundaram%20supriya%20sarkar%20sandvik)]
 
-<div style="text-align: justify">Besides Data Science, I also have a great passion for photography and videography. Below is a list of films I documented to retain beautiful memories of places I traveled to and amazing people I met on the way.</div>
+<div style="text-align: justify">An inspection system for inspecting an internal surface of a tube comprising: a camera unit comprising a camera, a light source and a shield, the shield mounted at a separation distance from the camera and configured to reflect at least some light generated from the light source in a direction towards the camera;</div>
 <br>
 
 - [Ada Von Weiss - You Regret (Winter at Niagara)](https://www.youtube.com/watch?v=-5esqvmPnHI)
