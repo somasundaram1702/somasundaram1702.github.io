@@ -98,8 +98,9 @@ My complete implementation of assignments and projects in [***CS224n: Natural La
 <br>
 
 - [Tube inspection system](https://worldwide.espacenet.com/patent/search/family/062235809/publication/WO2019219956A1?q=somasundaram%20supriya%20sarkar%20sandvik)
-- [The Weight We Carry is Love - TORONTO](https://www.youtube.com/watch?v=vfZwdEWgUPE)
-- [In America - Boston 2017](https://www.youtube.com/watch?v=YdXufiebgyc)
+<br>
+<center><img src="images/blog_patent_pic.png"/></center>
+<br>
 
 
 ---
