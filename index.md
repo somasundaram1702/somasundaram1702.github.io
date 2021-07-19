@@ -48,7 +48,7 @@ My complete implementation of assignments and projects in [***CS224n: Natural La
 ---
 ## Data Science
 
-### Credit Risk Prediction Web App
+### Real time facial recognition system on Nvidia AGX Xavier 
 
 [![Open Web App](https://img.shields.io/badge/Heroku-Open_Web_App-blue?logo=Heroku)](http://credit-risk.herokuapp.com/)
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/chriskhanhtran/credit-risk-prediction/blob/master/documents/Notebook.ipynb)
@@ -92,7 +92,7 @@ My complete implementation of assignments and projects in [***CS224n: Natural La
 <br>
 
 ---
-## A patent on tube inspection using Artificial Intelligence
+### A patent on tube inspection using Artificial Intelligence
 
 <div style="text-align: justify">An inspection system for inspecting the internal surface of tubes was designed and developed. A light and efficient Convolutional Neural Network model was designed & trained to automatically identify and classify 5 different types of defects using bounding boxes. The CNN algorithm can identify defects of size ranging from 100 micron to a few millimeters. The algorithm was optimized to run on an edge device with at least 15 fps, making the inspection system work real time.</div>
 <br>
