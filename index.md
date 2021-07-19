@@ -54,7 +54,7 @@ My complete implementation of assignments and projects in [***CS224n: Natural La
 
 <div style="text-align: justify">After my team preprocessed a dataset of 10K credit applications and built machine learning models to predict credit default risk, I built an interactive user interface with Streamlit and hosted the web app on Heroku server.</div>
 <br>
-<center><img src="images/Facerec_xavier_1.png"/></center>
+<center><img src="images/Facerec_xavier_2.png"/></center>
 <br>
 
 ---
