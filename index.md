@@ -50,11 +50,11 @@ My complete implementation of assignments and projects in [***CS224n: Natural La
 
 ### Real time facial recognition system on Nvidia AGX Xavier 
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/somasundaram1702/pdf/Face-on-edge-realtime-face-recognition)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/somasundaram1702/somasundaram1702.github.io/blob/main/pdf/Face-on-edge-realtime-face-recognition.pdf)
 
 <div style="text-align: justify">After my team preprocessed a dataset of 10K credit applications and built machine learning models to predict credit default risk, I built an interactive user interface with Streamlit and hosted the web app on Heroku server.</div>
 <br>
-<center><img src="images/Facerec_xavier.png"/></center>
+<center><img src="images/Facerec_xavier_1.png"/></center>
 <br>
 
 ---
