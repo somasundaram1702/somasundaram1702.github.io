@@ -96,7 +96,9 @@ My complete implementation of assignments and projects in [***CS224n: Natural La
 
 <div style="text-align: justify">An inspection system for inspecting internal surface of tubes was designed and developed. A light and efficient Convolutional Neural Network model was designed & trained to automatically identify and classify 5 different type of defects using bounding boxes. The CNN algorithm can identify defects of size ranging from 100 micron to few millimeter. The algorithm was optimized to run on edge devices to provide atleast 15 fps, to make the inspection system work real time. Link to read the patent</div>
 <br>
+
 [![Tube inspection system](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](https://worldwide.espacenet.com/patent/search/family/062235809/publication/WO2019219956A1?q=somasundaram%20supriya%20sarkar%20sandvik)
+
 <br>
 <center><img src="images/blog_patent_pic.png"/></center>
 <br>
