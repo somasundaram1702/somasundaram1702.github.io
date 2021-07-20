@@ -46,7 +46,7 @@ My complete implementation of assignments and projects in [***CS224n: Natural La
 <br>
 
 ---
-## Data Science
+## White papers
 
 ### Real time facial recognition system on Nvidia AGX Xavier 
 
@@ -61,21 +61,21 @@ variations like masks, spectacles, etc.</div>
 ---
 ### Extreme value machine: An algorithm for openset classification
 
-[![White paper](https://img.shields.io/badge/PDF-White_paper-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/EV_machine.pdf)
+[![White paper](https://img.shields.io/badge/PDF-Read_paper-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/EV_machine.pdf)
 
-<div style="text-align: justify">I performed comprehensive EDA to understand important variables, handled missing values, outliers, performed feature engineering, and ensembled machine learning models to predict house prices. My best model had Mean Absolute Error (MAE) of 12293.919, ranking <b>95/15502</b>, approximately <b>top 0.6%</b> in the Kaggle leaderboard.</div>
+<div style="text-align: justify"> Extreme value machine (EVM) is a state of art algorithm for open set classification tasks. This algorithm is readily available in python, however implementations in other languages like C++ & Java are not handy. In this work we have developed EVM algorithm using java and integrated the algorithm in our android face recognition pipeline. This paper explains construction and working of the algorithm. <b>top 0.6%</b> in the Kaggle leaderboard.</div>
 <br>
 <center><img src="images/EVM_pic2.png"/></center>
 <br>
 
 ---
-
-### A patent on tube inspection using Artificial Intelligence
+## Patents
+### A tube inspection system using Artificial Intelligence
 
 <div style="text-align: justify">An inspection system for inspecting the internal surface of tubes was designed and developed. A light and efficient Convolutional Neural Network model was designed & trained to automatically identify and classify 5 different types of defects using bounding boxes. The CNN algorithm can identify defects of size ranging from 100 micron to a few millimeters. The algorithm was optimized to run on an edge device with at least 15 fps, making the inspection system work real time.</div>
 <br>
 
-[![Tube inspection system](https://img.shields.io/badge/Link-Tube_inspection_system-blue?logo=adobe-acrobat-reader&logoColor=white)](https://worldwide.espacenet.com/patent/search/family/062235809/publication/WO2019219956A1?q=somasundaram%20supriya%20sarkar%20sandvik)
+[![Tube inspection system](https://img.shields.io/badge/Link-Read_patent-blue?logo=adobe-acrobat-reader&logoColor=white)](https://worldwide.espacenet.com/patent/search/family/062235809/publication/WO2019219956A1?q=somasundaram%20supriya%20sarkar%20sandvik)
 <br>
 <center><img src="images/blog_patent_pic.png"/></center>
 <br>
