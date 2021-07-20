@@ -50,10 +50,9 @@ My complete implementation of assignments and projects in [***CS224n: Natural La
 
 ### Real time facial recognition system on Nvidia AGX Xavier 
 
-[![White paper](https://img.shields.io/badge/PDF-White_paper-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/Face-on-edge-realtime-face-recognition.pdf)
+[![White paper](https://img.shields.io/badge/PDF-Read_paper-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/Face-on-edge-realtime-face-recognition.pdf)
 <div style="text-align: justify">A face recognition model developed and deployed on the Nvidia Jetson Xavier AGX board. The model can identify unknown and known faces with an average accuracy of 96% with well-known datasets like LFW and VGGFace2. The model is optimized using the TensorRT 
-module, which improved the inference speed 10-15 times. The model performs well in one shot learning, handling 
-variations like masks, spectacles, etc.</div>
+module, which improved the inference speed 10-15 times.</div>
 <br>
 <center><img src="images/Facerec_xavier_3.png"/></center>
 <br>
@@ -63,7 +62,7 @@ variations like masks, spectacles, etc.</div>
 
 [![White paper](https://img.shields.io/badge/PDF-Read_paper-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/EV_machine.pdf)
 
-<div style="text-align: justify"> Extreme value machine (EVM) is a state of art algorithm for open set classification tasks. This algorithm is readily available in python, however implementations in other languages like C++ & Java are not handy. In this work we have developed EVM algorithm using java and integrated the algorithm in our android face recognition pipeline. This paper explains construction and working of the algorithm. <b>top 0.6%</b> in the Kaggle leaderboard.</div>
+<div style="text-align: justify">Extreme value machine (EVM) is a state of art algorithm for open set classification tasks. This algorithm is readily available in python, however implementations in other languages like C++ & Java are not handy. In this work we have developed an EVM algorithm using Java and integrated the algorithm in our android face recognition pipeline. This paper explains construction and working of the algorithm.</div>
 <br>
 <center><img src="images/EVM_pic2.png"/></center>
 <br>
