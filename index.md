@@ -64,7 +64,7 @@ module, which improved the inference speed 10-15 times.</div>
 
 <div style="text-align: justify">Extreme value machine (EVM) is a state of art algorithm for open set classification tasks. This algorithm is readily available in python, however implementations in other languages like C++ & Java are not handy. In this work we have developed an EVM algorithm using Java and integrated the algorithm in our android face recognition pipeline. This paper explains construction and working of the algorithm.</div>
 <br>
-<center><img src="images/EVM_pic2.png"/></center>
+<center><img src="images/EVM_pic3.png"/></center>
 <br>
 
 ---
