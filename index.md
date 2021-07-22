@@ -48,7 +48,7 @@ My complete implementation of assignments and projects in [***CS224n: Natural La
 
 **Dependency Parsing:** A Neural Transition-Based Dependency Parsing system with one-layer MLP ([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Assignments/tree/master/assignments/a3)).
 
-<center><img src="images/nlp.png"/></center>
+<center><img src="images/Pic2.png"/></center>
 
 ---
 ### AI for Smart Queue management
