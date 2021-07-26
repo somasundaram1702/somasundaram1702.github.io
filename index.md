@@ -40,7 +40,7 @@ module, which improved the inference speed 10-15 times.</div>
 
 ### Designing a people counter appilication
 
-This is a simple project to count the number of people. In this project, people enter a room from one side, read a document and leave the room on the other side. An SSD people detector model was used to count the people with 100% accuracy. 
+<div style="text-align: justify">This is a simple project to count the number of people. In this project, people enter a room from one side, read a document and leave the room on the other side. An SSD people detector model was used to count the people with 100% accuracy.</div> 
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/somasundaram1702/people-counter-python)
 
@@ -50,8 +50,6 @@ This is a simple project to count the number of people. In this project, people 
 ### AI for Smart Queue management
 
 <div style="text-align: justify">In this work, people standing in a queue are counted. The same SSD people detection model was used to count people inside a region of interest. If too many people are identified in a single queue, they were re-directed to the other queue.</div>
-
-[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-red?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1f32gj5IYIyFipoINiC8P3DvKat-WWLUK)
 
 <center><img src="images/smart_queue.gif"/></center>
 
