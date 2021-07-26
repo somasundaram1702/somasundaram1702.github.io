@@ -38,15 +38,14 @@ module, which improved the inference speed 10-15 times.</div>
 ---
 ## Udacity course: Intel Edge AI
 
-### Designing a people counter app
+### Designing a people counter appilication
 
-My complete implementation of assignments and projects in [***CS224n: Natural Language Processing with Deep Learning***](http://web.stanford.edu/class/cs224n/) by Stanford (Winter, 2019).
+This is a simple project to count the number of people. In this project, people enter a room from one side, read a document and leave the room on the other side. An SSD people detector model was used to count the people with 100% accuracy. 
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/CS224n-NLP-Solutions/tree/master/assignments/)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/somasundaram1702/people-counter-python)
 
-**Neural Machine Translation:** An NMT system which translates texts from Spanish to English using a Bidirectional LSTM encoder for the source sentence and a Unidirectional LSTM Decoder with multiplicative attention for the target sentence ([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Solutions/tree/master/assignments/)).
+**Challanges faced:** The SSD people counter model many times does not predict the person (False negative). For example out of 100 frames only 80 frames will be predicted as True positive and the rest will be False negative. So the counter logic is modified such that, only if 5 or 8 continous frames are classified as negative, the counter gets refreshed.  
 
-**Dependency Parsing:** A Neural Transition-Based Dependency Parsing system with one-layer MLP ([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Assignments/tree/master/assignments/a3)).
 
 <center><img src="images/Pic_2.gif"/></center>
 
