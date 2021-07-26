@@ -42,7 +42,7 @@ module, which improved the inference speed 10-15 times.</div>
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/somasundaram1702/Gaze-estimation-and-control-computer-pointer)
 
-<div style="text-align: justify">First I build co-occurence matrices of ingredients from Facebook posts from 2011 to 2015. Then, to identify interesting and rare ingredient combinations that occur more than by chance, I calculate Lift and PPMI metrics. Lastly, I plot time-series data of identified trends to validate my findings. Interesting food trends have emerged from this analysis.</div>
+<div style="text-align: justify"> In this project, the Iris movement is tracked and the direction of Iris movement is predicted using vectors Four different models were used serially and parallely to get an output as shown in below video. This algorithm plays a critical role in studying the driver's stability</div>
 <br>
 <center><img src="images/gaze.gif"></center>
 <br>
