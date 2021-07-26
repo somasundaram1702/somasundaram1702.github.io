@@ -49,9 +49,9 @@ This is a simple project to count the number of people. In this project, people 
 ---
 ### AI for Smart Queue management
 
-[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-red?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1f32gj5IYIyFipoINiC8P3DvKat-WWLUK)
+<div style="text-align: justify">In this work, people standing in a queue are counted. The same SSD people detection model was used to count people inside a region of interest. If too many people are identified in a single queue, they were re-directed to the other queue.</div>
 
-<div style="text-align: justify">In this work, people standing in a queue are counted. The same SSD people detection model was used to count people inside a region of interest. If too many people are identified in a single queue, they are re-directed to the other queue.</div>
+[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-red?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1f32gj5IYIyFipoINiC8P3DvKat-WWLUK)
 
 <center><img src="images/smart_queue.gif"/></center>
 
