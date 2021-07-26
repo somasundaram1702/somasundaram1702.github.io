@@ -38,15 +38,17 @@ module, which improved the inference speed 10-15 times.</div>
 ---
 ## Udacity course: Intel Edge AI
 
-### Designing a people counter application
+### Gaze estimation algorithm
 
-<div style="text-align: justify">This is a simple project to count the number of people. In this project, people enter a room from one side, read a document and leave the room on the other side. An SSD people detector model was used to count the people with 100% accuracy.</div> 
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/somasundaram1702/Gaze-estimation-and-control-computer-pointer)
+
+<div style="text-align: justify">First I build co-occurence matrices of ingredients from Facebook posts from 2011 to 2015. Then, to identify interesting and rare ingredient combinations that occur more than by chance, I calculate Lift and PPMI metrics. Lastly, I plot time-series data of identified trends to validate my findings. Interesting food trends have emerged from this analysis.</div>
 <br>
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/somasundaram1702/people-counter-python)
+<center><img src="images/gaze.gif"></center>
 <br>
-<center><img src="images/people_counter.gif"/></center>
 
 ---
+
 ### AI for Smart Queue management
 
 <div style="text-align: justify">In this work, people standing in a queue are counted. The same SSD people detection model was used to count people inside a region of interest. If too many people are identified in a single queue, they were redirected to the other queue.</div>
@@ -56,14 +58,14 @@ module, which improved the inference speed 10-15 times.</div>
 <center><img src="images/smart_queue.gif"/></center>
 
 ---
-### Gaze estimation algorithm
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/somasundaram1702/Gaze-estimation-and-control-computer-pointer)
+### Designing a people counter application
 
-<div style="text-align: justify">First I build co-occurence matrices of ingredients from Facebook posts from 2011 to 2015. Then, to identify interesting and rare ingredient combinations that occur more than by chance, I calculate Lift and PPMI metrics. Lastly, I plot time-series data of identified trends to validate my findings. Interesting food trends have emerged from this analysis.</div>
+<div style="text-align: justify">This is a simple project to count the number of people. In this project, people enter a room from one side, read a document and leave the room on the other side. An SSD people detector model was used to count the people with 100% accuracy.</div> 
 <br>
-<center><img src="images/gaze.gif"></center>
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/somasundaram1702/people-counter-python)
 <br>
+<center><img src="images/people_counter.gif"/></center>
 
 ---
 
