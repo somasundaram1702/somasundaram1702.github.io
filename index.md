@@ -47,7 +47,7 @@ This is a simple project to count the number of people. In this project, people 
 **Challanges faced:** The SSD people counter model many times does not predict the person (False negative). For example out of 100 frames only 80 frames will be predicted as True positive and the rest will be False negative. So the counter logic is modified such that, only if 5 or 8 continous frames are classified as negative, the counter gets refreshed.  
 
 
-<center><img src="images/People_counter.gif"/></center>
+<center><img src="images/people_counter.gif"/></center>
 
 ---
 ### AI for Smart Queue management
