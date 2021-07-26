@@ -44,9 +44,6 @@ This is a simple project to count the number of people. In this project, people 
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/somasundaram1702/people-counter-python)
 
-**Challanges faced:** The SSD people counter model many times does not predict the person (False negative). For example out of 100 frames only 80 frames will be predicted as True positive and the rest will be False negative. So the counter logic is modified such that, only if 5 or 8 continous frames are classified as negative, the counter gets refreshed.  
-
-
 <center><img src="images/people_counter.gif"/></center>
 
 ---
@@ -56,7 +53,7 @@ This is a simple project to count the number of people. In this project, people 
 
 <div style="text-align: justify">In this work, people standing in a queue are counted. The same SSD people detection model was used to count people inside a region of interest. If too many people are identified in a single queue, they are re-directed to the other queue.</div>
 
-<center><img src="images/BERT-classification.png"/></center>
+<center><img src="images/smart_queue.gif"/></center>
 
 ---
 ### Gaze estimation algorithm
