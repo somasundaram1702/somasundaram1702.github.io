@@ -43,8 +43,7 @@ module, which improved the inference speed 10-15 times.</div>
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/somasundaram1702/Gaze-estimation-and-control-computer-pointer)
 
 <div style="text-align: justify"> In this project, the iris movement is tracked and the direction of gaze is predicted using vectors. Four different models were used serially and parallely to get an output as shown in the video below. This algorithm plays a critical role in evaluating driver vigilance and drowsiness level. This is also used in cognitive studies, psychoanalysis, virtual reality applications etc.</div>
-<br>
-<center><img src="images/gaze.gif"></center>
+<img align= "right" src="images/gaze.gif">
 <br>
 
 ---
