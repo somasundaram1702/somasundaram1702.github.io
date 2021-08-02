@@ -32,7 +32,7 @@ module, which improved the inference speed 10-15 times.</div>
 
 [![Tube inspection system](https://img.shields.io/badge/Link-Read_patent-blue?logo=adobe-acrobat-reader&logoColor=white)](https://worldwide.espacenet.com/patent/search/family/062235809/publication/WO2019219956A1?q=somasundaram%20supriya%20sarkar%20sandvik)
 <br>
-<center><img src="images/blog_patent_pic.png"/></center>
+<center><img src="images/blog_patent_pic.png"/></right>
 <br>
 
 ---
