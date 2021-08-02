@@ -32,7 +32,7 @@ module, which improved the inference speed 10-15 times.</div>
 
 [![Tube inspection system](https://img.shields.io/badge/Link-Read_patent-blue?logo=adobe-acrobat-reader&logoColor=white)](https://worldwide.espacenet.com/patent/search/family/062235809/publication/WO2019219956A1?q=somasundaram%20supriya%20sarkar%20sandvik)
 <br>
-<center><img src="images/blog_patent_pic.png"/></right>
+<center><img src="images/blog_patent_pic.png"/></center>
 <br>
 
 ---
@@ -44,7 +44,7 @@ module, which improved the inference speed 10-15 times.</div>
 
 <div style="text-align: justify"> In this project, the iris movement is tracked and the direction of gaze is predicted using vectors. Four different models were used serially and parallely to get an output as shown in the video below. This algorithm plays a critical role in evaluating driver vigilance and drowsiness level. This is also used in cognitive studies, psychoanalysis, virtual reality applications etc.</div>
 <br>
-<center><img style="float: center;" src="images/gaze.gif">
+<center><img src="images/gaze.gif"></center>
 <br>
 
 ---
