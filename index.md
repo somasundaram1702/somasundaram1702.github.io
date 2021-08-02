@@ -45,7 +45,7 @@ module, which improved the inference speed 10-15 times.</div>
 <img align= "right" src="images/gaze.gif">
 <br>
 
-In this project, the iris movement is tracked and the direction of gaze is predicted using vectors. Four different models were used serially and parallely to get an output as shown in the video below. This algorithm plays a critical role in evaluating driver vigilance and drowsiness level. This is also used in cognitive studies, psychoanalysis, virtual reality applications etc.
+<div style="text-align: justify">In this project, the iris movement is tracked and the direction of gaze is predicted using vectors. Four different models were used serially and parallely to get an output as shown in the video below. This algorithm plays a critical role in evaluating driver vigilance and drowsiness level. This is also used in cognitive studies, psychoanalysis, virtual reality applications etc.</div>
 <br>
 
 
